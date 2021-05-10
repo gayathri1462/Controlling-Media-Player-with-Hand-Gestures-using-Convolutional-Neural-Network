@@ -1,4 +1,4 @@
-# Media Control System using Hand Gestures
+# Media Player Control System using Hand Gestures
 
 ## A Web Application to control media player using Hand gestures (Using Streamlit)
 
