@@ -13,7 +13,7 @@ The main aim of the system is to use the most natural form i.e., hand gestures t
 The goal of this project is to create a web application which uses your device's camera to give you touch-free  and remote-free control over your any  media player application (without any special hardware). It increases your  productivity and makes your life easier and comfortable by letting you control your device from a distance.
 
 #### System Design Flow: 
-![alt text](https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/design.png?raw=true)
+<img src="https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/design.png?raw=true.type" width="400" height="300">
 
 #### Data collection and preprocessing using OpenCV: 
 ![alt text](https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/gestures.png?raw=true)
@@ -22,8 +22,8 @@ The goal of this project is to create a web application which uses your device's
 Palm, fist, thumbs up, thumbs down, index pointing right, index pointing left and no gesture (Left to right)
 
 #### Architecture of trained CNN model: 
-![alt text](https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/model.jpg?raw=true)
+<img src="https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/model.jpg?raw=true.type" width="300" height="300">
 
 #### Results: 
-![alt text](https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/results.png?raw=true)
+<img src="https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/results.png?raw=true.type" width="300" height="300">
 
