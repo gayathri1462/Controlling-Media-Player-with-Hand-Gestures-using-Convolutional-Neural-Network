@@ -1,7 +1,9 @@
 # Controlling Media Player with Hand Gestures using Convolutional Neural Network
 
-## Paper on this project published by IEEE
+## Kindly go through our Research Paper published by IEEE on this project for more information
 ## https://ieeexplore.ieee.org/document/9641567
+
+## Contact Me on Linkedin: https://www.linkedin.com/in/gayathri1462/
 
 ### A Web Application to control media player using Hand gestures (Using Streamlit)
 
@@ -15,31 +17,31 @@ The proposed system can control the media player from a distance using hand gest
 5. A webpage is deployed which contains source files and demo using streamlit.io sharing.
 
 
-![alt text](https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/cam%20page.png?raw=true)
+![alt text](https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/cam%20page.png?raw=true)
 
 #### Web App link: 
 
 https://share.streamlit.io/gayathri1462/hand-gesture-recognition-streamlit/main/webapp.py
 
 #### System Design Flow: 
-<img src="https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/design.png?raw=true.type" width="500" height="400">
+<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/design.png?raw=true.type" width="500" height="400">
 
 #### Data collection and preprocessing using OpenCV: 
 
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/data-collection.png?raw=true.type" width="500" height="400">
+<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/data-collection.png?raw=true.type" width="500" height="400">
 
 **Gestures obtained after Data collection and preprocessing**:
 Palm, fist, thumbs up, thumbs down, index pointing right, index pointing left and no gesture (Left to right)
 
-![alt text](https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/gestures.png?raw=true)
+![alt text](https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/gestures.png?raw=true)
 
 #### Architecture of trained CNN model: 
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/CNNlayers.png?raw=true.type" width="300" height="300">
+<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/CNNlayers.png?raw=true.type" width="300" height="300">
 
 #### Results: 
-<img src="https://github.com/gayathri1462/Hand-Gesture-Recognition-Streamlit/blob/main/images/results.png?raw=true.type" width="400" height="400">
+<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/results.png?raw=true.type" width="400" height="400">
 
 #### Performance Evalutaion:
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/Confusion%20matrix.png?raw=true.type" width="400" height="400">
+<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/Confusion%20matrix.png?raw=true.type" width="400" height="400">
 
 
