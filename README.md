@@ -1,6 +1,6 @@
 # Controlling Media Player with Hand Gestures using Convolutional Neural Network
 
-## Kindly go through our Research Paper published by IEEE on this project for more information
+## Kindly go through our Research Paper published by IEEE on this project for more information and cite it in your projects
 ## https://ieeexplore.ieee.org/document/9641567
 
 ## Contact Me on Linkedin: https://www.linkedin.com/in/gayathri1462/
